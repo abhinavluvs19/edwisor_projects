@@ -1,0 +1,85 @@
+
+@media only screen and (max-width: 1000px) {
+
+    .ind-techs {
+        display: flex;
+        flex-direction: column;
+        margin: 0 30%;
+    }
+
+    .tech-details {
+        padding: 5% 30%;
+    }
+}
+
+@media only screen and (max-width: 725px) {
+
+    body {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 1rem;
+        line-height: 140%;
+    }
+
+    header {
+        /*display: flex;*/
+        /*flex-direction: column;*/
+        /*background-size: cover;*/
+        /*height: 100vh;*/
+        order: -1;
+    }
+
+    .ind-techs {
+        display: flex;
+        flex-direction: column;
+        margin: 0 30%;
+    }
+
+    .tech-details {
+        padding: 30px 0;
+    }
+
+    .all-exp .prof-list {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .exp-title h3 {
+        text-align: center;
+    }
+
+    .prof-list-details p {
+        margin: auto 10%;
+    }
+
+    .ind-project h3 {
+        font-size: 1rem;
+    }
+
+    footer p {
+        line-height: 140%;
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-main .social-links {
+        padding: 0 20%;
+    }
+
+
+}
+
+/*@media only screen and (max-width: 360px) {*/
+    /*header {*/
+        /*display: flex;*/
+        /*flex-direction: column;*/
+        /*background-size: cover;*/
+        /*height: 100vh;*/
+    /*}*/
+/*}*/
