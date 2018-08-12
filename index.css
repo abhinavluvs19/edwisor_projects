@@ -236,17 +236,3 @@ footer p {
     margin-top: 20px;
     line-height: 180%;
 }
-
-
-
-/*@media only screen and (max-width: 725px) {*/
-    /*.row {*/
-        /*flex-direction: column;*/
-    /*}*/
-    /*.row .image {*/
-        /*order: -1;*/
-    /*}*/
-    /*.row .my-image {*/
-        /*width: 60vw;*/
-    /*}*/
-/*}*/
